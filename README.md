@@ -1,2 +1,1 @@
-# leetcode
-Algorithm practice
+# Leetcode Problems
